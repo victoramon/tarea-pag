@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 20px;
+}
+.menu {
+    position: absolute;
+    display: flex;
+    background-color: black;
+    width: 100%;
+    padding: 5px;
+}
+table {
+    color: white;
+    margin-right: 10px;
+    font-weight: bold;
+    flex-direction: row;
+
+}
+div img {
+    height: 50px;
+    margin-right: auto;
+}
+.cabeza {
+    background-image: url("https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Basketball.jpg");
+    color: white;
+}
